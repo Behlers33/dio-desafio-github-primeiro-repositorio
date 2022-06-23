@@ -1,0 +1,16 @@
+dir
+cd
+cd ..
+clear
+mk dir
+echo
+del
+rmdir
+openssl sha1
+git remote add origin
+git push origin master
+git add
+git commit -m
+git push origin main
+git pull origin main
+git clone
